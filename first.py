@@ -1,3 +1,3 @@
-print("hello world")
+print("hell")
 x =  "daaaaaaaaaaaaaaaaaaaaaaaaaaaa"
 print("balaaaa")
